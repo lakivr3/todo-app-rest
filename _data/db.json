@@ -1,0 +1,12 @@
+{
+  "todo": [
+    {
+      "title": "Workout",
+      "id": 1
+    },
+    {
+      "title": "Go to store",
+      "id": 2
+    }
+  ]
+}
